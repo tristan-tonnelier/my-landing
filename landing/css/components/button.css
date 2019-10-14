@@ -1,0 +1,27 @@
+.btn-orange {
+	background-color: #B23D31;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 4px;
+	text-decoration: none;
+	transition: color 0.3s ease;
+}
+
+.btn-orange:hover {
+	background-color: #C9C1BB;
+	color: #F5F1E9;
+}
+
+.btn-blue {
+	background-color: #5D67A2;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 4px;
+	text-decoration: none;
+	transition: color 0.3s ease;
+}
+
+.btn-blue:hover {
+	background-color: #3D4369;
+	color: #BAA299;
+}

@@ -1,0 +1,11 @@
+.avatar-circle {
+	width: 200px;
+	border-radius: 50%;
+	transition: color 0.3s ease;
+}
+
+.avatar-circle:hover {
+	width: 210px;
+	padding: 5px;
+	border: 2px solid #B23D31;
+}
