@@ -1,0 +1,26 @@
+.container {
+	width: 700px;
+	margin: 40px auto;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 40px;
+}
+
+@media (max-width: 750px) {
+	.container {
+		width: 600px;
+	}
+}
+
+@media (max-width: 625px) {
+	.container {
+		width: 500px;
+	}
+}
+
+@media (max-width: 500px) {
+	.container {
+		width: 400px;
+	}
+}

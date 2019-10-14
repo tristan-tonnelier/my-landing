@@ -1,0 +1,7 @@
+.live {
+	background-image: linear-gradient(-225deg, rgba(16, 18, 28, 0.8) 0%, rgba(118, 167, 219, 0.2) 100%), url("../../images/city.mp4");
+	color: #F4F1ED;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
